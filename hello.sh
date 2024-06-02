@@ -3,3 +3,4 @@ echo `hostname`
 echo "New Branch"
 uptime
 lscpu
+free -m
