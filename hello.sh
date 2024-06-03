@@ -3,4 +3,4 @@ echo `hostname`
 echo "New Branch"
 uptime
 lscpu
-echo "PollscM"
+echo "This is Git Poll SCM"
